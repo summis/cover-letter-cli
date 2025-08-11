@@ -21,7 +21,7 @@ A command-line tool to generate tailored cover letters using:
 ## 🚀 Installation
 
     # Clone the repository
-    git clone https://github.com/yourusername/cover-letter-cli.git
+    git clone https://github.com/summis/cover-letter-cli.git
     cd cover-letter-cli
 
     # Create virtual environment & install dependencies
